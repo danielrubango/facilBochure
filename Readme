@@ -1,0 +1,11 @@
+# Facil CMS - For Bochures
+Facil is a CMS based on Laravel Framework.
+
+## Installation
+Unix and Linux OS: Just run the install script on the terminal.
+
+```
+./install
+```
+
+## Version 0.1.0
